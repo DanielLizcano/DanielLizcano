@@ -23,6 +23,8 @@
 
 - Framework: Spring Boot.
 - Base de Datos: MongoDB.
+- CI/CD
+- Pruebas Unitarias y Pruebas de Integracion
 
 ## Enfoques y Metodologías
 
