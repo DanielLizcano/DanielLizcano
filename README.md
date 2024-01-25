@@ -1,10 +1,7 @@
-### Hi there 👋
-
-# Acerca de mi
 
 ![Banner](/Banner.PNG)
 
-# Presentación Profesional
+# Acerca de mi
 
 ¡Hola! Soy Daniel, un desarrollador web con experiencia y pasión por la creación de soluciones tecnológicas innovadoras. Aquí está un vistazo a mi recorrido profesional y habilidades:
 
