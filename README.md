@@ -1,9 +1,10 @@
+# <p align="center">¡Hola!, Soy <span style="color:blue">Daniel</span></p>
 
 ![Banner](/Banner.PNG)
 
-# Acerca de mi
+# Sobre mi
 
-¡Hola! Soy Daniel, un desarrollador web con experiencia y pasión por la creación de soluciones tecnológicas innovadoras. Aquí está un vistazo a mi recorrido profesional y habilidades:
+Soy un desarrollador web con experiencia y pasión por la creación de soluciones tecnológicas innovadoras. Aquí está un vistazo a mi recorrido profesional y habilidades:
 
 ## Experiencia Profesional
 
