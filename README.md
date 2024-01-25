@@ -36,7 +36,7 @@
 
 Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir creciendo y aplicar mis habilidades de manera innovadora.
 
-## Frase Motivacional
+
 
 "El aprendizaje es un viaje sin fin. Cada desafío es una oportunidad para crecer y mejorar. ¡Siempre listo para nuevos horizontes y mayores logros!"
 
