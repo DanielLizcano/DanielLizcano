@@ -2,7 +2,7 @@
 
 # Acerca de mi
 
-![Banner]([/DanielLizcano/DanielLizcano/blob/main/Banner.PNG))
+![Banner](/Banner.PNG)
 
 # Presentación Profesional
 
