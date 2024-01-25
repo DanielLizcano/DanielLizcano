@@ -43,7 +43,7 @@ Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir cr
 ¡Gracias por revisar mi perfil!
 
 
-### ⚙️ &nbsp;GitHub Analytics
+<!--### ⚙️ &nbsp;GitHub Analytics-->
 
 <!--<p align="center">
 <a href="https://github.com/DanielLizcano">
