@@ -50,12 +50,16 @@ Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir cr
 "El aprendizaje es un viaje sin fin. Cada desafío es una oportunidad para crecer y mejorar. ¡Siempre listo para nuevos horizontes y mayores logros!"
 
 Gracias por visitar mi perfil. ¡Espero tener la oportunidad de colaborar contigo!
-### Contacto
+# Contacto
 
-Si deseas comunicarte conmigo, no dudes en escribirme a [jdaniellizcanoc@gmail.com](jdaniellizcanoc@gmail.com). Estoy disponible para discutir oportunidades de colaboración, responder preguntas o simplemente charlar sobre tecnología.
+Si deseas comunicarte conmigo, no dudes en escribirme a [jdaniellizcanoc@gmail.com](mailto:jdaniellizcanoc@gmail.com). Estoy disponible para discutir oportunidades de colaboración, responder preguntas o simplemente charlar sobre tecnología.
 
 
-![GIF](https://tenor.com/view/working-busy-workaholic-multitasking-back-to-work-gif-12516733)
+
+
+<p align="center">
+  <img src="/working-busy.gif" alt="Banner">
+</p>
 
 <!--### ⚙️ &nbsp;GitHub Analytics-->
 
