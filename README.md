@@ -55,6 +55,8 @@ Gracias por visitar mi perfil. ¡Espero tener la oportunidad de colaborar contig
 Si deseas comunicarte conmigo, no dudes en escribirme a [jdaniellizcanoc@gmail.com](jdaniellizcanoc@gmail.com). Estoy disponible para discutir oportunidades de colaboración, responder preguntas o simplemente charlar sobre tecnología.
 
 
+![GIF](https://tenor.com/view/working-busy-workaholic-multitasking-back-to-work-gif-12516733)
+
 <!--### ⚙️ &nbsp;GitHub Analytics-->
 
 <!--<p align="center">
