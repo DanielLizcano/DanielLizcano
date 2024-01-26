@@ -51,6 +51,8 @@ Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir cr
 
 Gracias por visitar mi perfil. ¡Espero tener la oportunidad de colaborar contigo!
 # Contacto
+- [Hoja de Vida](https://drive.google.com/file/d/1bUZR6icc_F-9hWSb58K8VOs6bwEW2VeU/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-daniel-lizcano-castro-264bb320b/)
 
 Si deseas comunicarte conmigo, no dudes en escribirme a [jdaniellizcanoc@gmail.com](mailto:jdaniellizcanoc@gmail.com). Estoy disponible para discutir oportunidades de colaboración, responder preguntas o simplemente charlar sobre tecnología.
 
@@ -58,7 +60,7 @@ Si deseas comunicarte conmigo, no dudes en escribirme a [jdaniellizcanoc@gmail.c
 
 
 <p align="center">
-  <img src="/working-busy.gif" alt="Banner">
+  <img src="/developer.gif" alt="Banner">
 </p>
 
 <!--### ⚙️ &nbsp;GitHub Analytics-->
