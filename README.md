@@ -4,11 +4,11 @@
   <img src="/Banner.PNG" alt="Banner">
 </p>
 
-# Sobre mi
+# 💬 Sobre mi
 
 Soy un desarrollador web con experiencia y pasión por la creación de soluciones tecnológicas innovadoras. Aquí está un vistazo a mi recorrido profesional y habilidades.
 
-## Experiencia Profesional
+## ⚡ Experiencia Profesional
 
 - Experiencia en Desarrollo Web, con **conocimientos avanzados** en la creación de aplicaciones web utilizando los frameworks **Node.js** y **Angular**. **Participé activamente** en la **implementación** y **supervisión** de los **módulos** del sistema de información diseñado para gestionar eficientemente las actividades académicas de la empresa, con el objetivo de optimizar la organización y ejecución de tareas.
 - He realizado prácticas exhaustivas con herramientas avanzadas como **Multipass**, **SSH** y **Docker** para la simulación de entornos de despliegue, configuración de bases de datos y administración de servidores. Estas prácticas se enfocaron en la preparación de elementos para despliegues en servidores de producción, así como en la creación de escenarios que optimizaran los tiempos de despliegue y migración.
@@ -23,25 +23,25 @@ Soy un desarrollador web con experiencia y pasión por la creación de solucione
 - Versionamiento: Git y convenciones de commits.
 - Bases de datos: PostgreSQL, MySQL.
 
-## 💻 Tech's Comming:
+## 🧠 Tech's Comming:
 ![MongoDB](https://img.shields.io/badge/mongoDB-%2300ff00.svg?style=for-the-badge&logo=mongodb&logoColor=grey) ![Jest](https://img.shields.io/badge/Jest-%23ffffff.svg?style=for-the-badge&logo=jest&logoColor=orange) ![CI/CD](https://img.shields.io/badge/CI/CD-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange) ![Springboot](https://img.shields.io/badge/springboot-%23ffffff.svg?style=for-the-badge&logo=springboot&logoColor=green) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 - Framework: Spring Boot.
 - Base de Datos: MongoDB.
 - CI/CD.
 - Pruebas Unitarias y Pruebas de Integracion.
 
-## Enfoques y Metodologías
+## 📊 Enfoques y Metodologías
 
 - Optimización de procesos para mejorar la eficiencia.
 - Manejo de soporte técnico con atención oportuna.
 - Implementación de la metodología Scrum para la gestión ágil de proyectos.
 
-## Soft Skills
+## 🤝 Soft Skills
 
 - Resolución colaborativa de problemas.
 - Gestión de tareas.
 - Pensamiento creativo.
-## Buscando Nuevos Retos
+## 🚀 Buscando Nuevos Retos
 
 Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir creciendo y aplicar mis habilidades de manera innovadora.
 
@@ -50,9 +50,10 @@ Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir cr
 "El aprendizaje es un viaje sin fin. Cada desafío es una oportunidad para crecer y mejorar. ¡Siempre listo para nuevos horizontes y mayores logros!"
 
 Gracias por visitar mi perfil. ¡Espero tener la oportunidad de colaborar contigo!
-# Contacto
+# 📫 Contacto
 - [Hoja de Vida](https://drive.google.com/file/d/1bUZR6icc_F-9hWSb58K8VOs6bwEW2VeU/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-daniel-lizcano-castro-264bb320b/)
+- [GitLab](https://gitlab.com/jdaniellizcanoc)
 
 Si deseas comunicarte conmigo, no dudes en escribirme a [jdaniellizcanoc@gmail.com](mailto:jdaniellizcanoc@gmail.com). Estoy disponible para discutir oportunidades de colaboración, responder preguntas o simplemente charlar sobre tecnología.
 
@@ -72,7 +73,6 @@ Si deseas comunicarte conmigo, no dudes en escribirme a [jdaniellizcanoc@gmail.c
 </a>
 </p>
 -->
-
 
 
 <!--
