@@ -47,7 +47,7 @@ Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir cr
 
 ### "El aprendizaje es un viaje sin fin. Cada desafío es una oportunidad para crecer y mejorar. ¡Siempre listo para nuevos horizontes y mayores logros!"
 
-# ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <img src="/githubAnalytics.PNG" alt="Analytics">
 </p>
