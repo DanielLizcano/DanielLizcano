@@ -47,6 +47,11 @@ Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir cr
 
 ### "El aprendizaje es un viaje sin fin. Cada desafío es una oportunidad para crecer y mejorar. ¡Siempre listo para nuevos horizontes y mayores logros!"
 
+# ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <img src="/githubAnalytics.PNG" alt="Analytics">
+</p>
+
 # 📫 Contacto
 Gracias por visitar mi perfil. ¡Espero tener la oportunidad de colaborar contigo!
 - [Hoja de Vida](https://drive.google.com/file/d/1k7utP9Sy67HsFQNB8CjRpIUAcO7EmllT/view?usp=sharing)
@@ -57,7 +62,9 @@ Si deseas comunicarte conmigo, no dudes en escribirme a [jdaniellizcanoc@gmail.c
 
 <!--
 # ⚙️ &nbsp;GitHub Analytics - Repositorios Publicos
-
+<p align="center">
+  <img src="/developer.gif" alt="Banner">
+</p>
 <p align="center">
 <a href="https://github.com/DanielLizcano">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielLizcano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&token=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"/>
