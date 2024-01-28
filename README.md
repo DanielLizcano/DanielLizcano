@@ -54,7 +54,7 @@ Actualmente, estoy buscando nuevos retos profesionales que me permitan seguir cr
 
 # 📫 Contacto
 Gracias por visitar mi perfil. ¡Espero tener la oportunidad de colaborar contigo!
-- [Hoja de Vida](https://drive.google.com/file/d/1k7utP9Sy67HsFQNB8CjRpIUAcO7EmllT/view?usp=sharing)
+- [Hoja de Vida](https://drive.google.com/file/d/1FlZu0eHhblEY60YevMzdsqy3t_a6oCkc/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-daniel-lizcano-castro-264bb320b/)
 - [GitLab](https://gitlab.com/jdaniellizcanoc)
 
