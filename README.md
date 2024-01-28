@@ -6,7 +6,7 @@
 
 # 💬 Sobre Mi
 
-Soy un desarrollador web con experiencia y pasión por la creación de soluciones tecnológicas innovadoras. Aquí está un vistazo a mi recorrido profesional y habilidades.
+Soy un desarrollador web con experiencia y pasión por la creación de soluciones tecnológicas innovadoras. Aquí está un vistazo a mi recorrido profesional y habilidades. [Video Presentación](https://youtu.be/wiygkKB_CkE)
 
 ## ⚡ Experiencia Profesional
 
