@@ -33,9 +33,11 @@ Soy un desarrollador web con experiencia y pasión por la creación de solucione
 - Pruebas Unitarias y Pruebas de Integracion.
 
 ## 🧠 Tecnologías en Formación:
-![MongoDB](https://img.shields.io/badge/mongoDB-%2300ff00.svg?style=for-the-badge&logo=mongodb&logoColor=grey) ![CI/CD](https://img.shields.io/badge/CI/CD-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
+![MongoDB](https://img.shields.io/badge/mongoDB-%2300ff00.svg?style=for-the-badge&logo=mongodb&logoColor=grey) ![CI/CD](https://img.shields.io/badge/CI/CD-%23ffffff.svg?style=for-the-badge&logo=gitlab&logoColor=orange) ![React](https://img.shields.io/badge/React-%23316192.svg?style=for-the-badge&logo=react&logoColor=black)
 - Base de Datos: MongoDB.
 - CI/CD.
+- React.
+- Fundamentos Azure.
 
 ## 📊 Enfoques y Metodologías
 
